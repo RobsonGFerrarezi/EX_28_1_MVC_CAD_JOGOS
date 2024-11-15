@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX_28_1_MVC_CAD_JOGOS", "EX_28_1_MVC_CAD_JOGOS\EX_28_1_MVC_CAD_JOGOS.csproj", "{B82E46FA-42D5-4D0E-A7EE-82D3A15D3F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82E46FA-42D5-4D0E-A7EE-82D3A15D3F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82E46FA-42D5-4D0E-A7EE-82D3A15D3F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82E46FA-42D5-4D0E-A7EE-82D3A15D3F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82E46FA-42D5-4D0E-A7EE-82D3A15D3F72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49E59D8E-4C12-465E-8E81-CB82061314B1}
+	EndGlobalSection
+EndGlobal
